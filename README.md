@@ -28,4 +28,10 @@ To run this project, you need to have Python installed along with the following 
 ```
 pip install ipywidgets Pillow pytesseract opencv-python numpy matplotlib torch transformers datasets seqeval doctr[torch]
 ```
-![Screenshot 1](path/to/screenshot1.png)
+<img src="https://github.com/Laxman824/FieldOCR/blob/main/1.png" width="500" alt="Screenshot 1" />
+<img src="https://github.com/Laxman824/FieldOCR/blob/main/2.png" width="500" alt="Screenshot 1" />
+<img src="https://github.com/Laxman824/FieldOCR/blob/main/3.png" width="500" alt="Screenshot 1" />
+<img src="https://github.com/Laxman824/FieldOCR/blob/main/4.png" width="500" alt="Screenshot 1" />
+<img src="https://github.com/Laxman824/FieldOCR/blob/main/5.png" width="500" alt="Screenshot 1" />
+
+
